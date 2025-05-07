@@ -5,7 +5,7 @@
 This Power BI dashboard provides deep insights into an Amazon sales dataset, including product ratings, discount trends, review counts, and customer feedback patterns.
 
 ## File Included
-- `amazon_sales_dashboard.pbix` – The main Power BI report file.
+- `Salesdata_dashboard.pbix` – The main Power BI report file.
 
 ## 📌 Visualizations Overview
 
