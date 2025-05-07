@@ -71,7 +71,7 @@ This Power BI dashboard provides deep insights into an Amazon sales dataset, inc
 
 ## 🚀 How to Use
 1. Clone or download the repository.
-2. Open `amazon_sales_dashboard.pbix` in Power BI Desktop.
+2. Open `Salesdata_dashboard.pbix` in Power BI Desktop.
 3. Refresh data or edit visuals as needed.
 
 ---
